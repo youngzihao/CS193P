@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E095E32121B784A500275F38 /* Build configuration list for PBXProject "Concentration" */;
+			buildConfigurationList = E095E32121B784A500275F38 /* Build configuration list for PBXProject "Concentration_1" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -284,7 +284,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5GVMG6C5NZ;
-				INFOPLIST_FILE = Concentration/Info.plist;
+				INFOPLIST_FILE = Concentration_1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,7 +302,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 5GVMG6C5NZ;
-				INFOPLIST_FILE = Concentration/Info.plist;
+				INFOPLIST_FILE = Concentration_1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E095E32121B784A500275F38 /* Build configuration list for PBXProject "Concentration" */ = {
+		E095E32121B784A500275F38 /* Build configuration list for PBXProject "Concentration_1" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E095E33621B784A600275F38 /* Debug */,

@@ -38,7 +38,7 @@
 		E095E31D21B784A500275F38 = {
 			isa = PBXGroup;
 			children = (
-				E095E32821B784A500275F38 /* Concentration */,
+				E095E32821B784A500275F38 /* Concentration_1 */,
 				E095E32721B784A500275F38 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,7 +51,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E095E32821B784A500275F38 /* Concentration */ = {
+		E095E32821B784A500275F38 /* Concentration_1 */ = {
 			isa = PBXGroup;
 			children = (
 				E095E32921B784A500275F38 /* AppDelegate.swift */,
@@ -61,7 +61,7 @@
 				E095E33221B784A600275F38 /* LaunchScreen.storyboard */,
 				E095E33521B784A600275F38 /* Info.plist */,
 			);
-			path = Concentration;
+			path = Concentration_1;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
